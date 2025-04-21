@@ -31,7 +31,6 @@ A base de dados contém colunas como:
 
 ## 📊 Tecnologias e Bibliotecas Utilizadas
 
-- Python 3.x  
 - Pandas  
 - NumPy  
 - Seaborn  
