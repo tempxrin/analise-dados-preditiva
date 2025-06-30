@@ -51,9 +51,3 @@ Com base na análise, é possível observar que variáveis como número de quart
 **João Daniel Temporin**  
 📍 Analista de Dados
 📬 [LinkedIn](https://www.linkedin.com/in/joao-temporin/)
-
----
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar, estudar e modificar!
